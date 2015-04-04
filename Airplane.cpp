@@ -1,3 +1,10 @@
+// file: Airplane.cpp
+// author: Ian Brown
+// date: 4/4/15
+// description:
+//    class file for Airplane objects. Airplanes are created
+//    by the Airsim.cpp based on inputted probabilities.
+
 #include "Airplane.h"
 
 Airplane::Airplane( int timeToCrash ) {
